@@ -1,0 +1,2 @@
+# Java Exercise: "La sécurité du musée"
+You are in charge of security at a museum. The museum can only admit adults (18 years or older) during certain exhibitions. You must create a program to verify the age of visitors and decide whether they can enter.
